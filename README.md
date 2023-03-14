@@ -1,5 +1,12 @@
 # Game-Portfolio
 
+## Version 0.3
+### 14/03/2023
+#### Changes
+- Modifications du niveau (pièce centrale).
+#### Additions
+- Caméra suivant le joueur
+
 ## Version 0.2
 ### 13/03/2023
 #### Changes
