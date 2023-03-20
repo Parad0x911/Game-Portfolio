@@ -1,5 +1,11 @@
 # Game-Portfolio
 
+## Version 0.5
+### 20/03/2023
+#### Changes
+- Model de joueur avec animation
+- Camera qui suit le joueur et peut tourner avec la souris
+
 ## Version 0.4
 ### 15/03/2023
 #### Changes
