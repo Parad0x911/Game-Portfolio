@@ -1,5 +1,10 @@
 # Game-Portfolio
 
+## Version 0.6
+### 21/03/2023
+#### Fix
+- Les textes sont maintenant visibles
+
 ## Version 0.5
 ### 20/03/2023
 #### Changes
