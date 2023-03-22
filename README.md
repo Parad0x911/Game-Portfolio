@@ -1,7 +1,7 @@
 # Game-Portfolio
 
 ## Version 0.7
-### 21/03/2023
+### 22/03/2023
 #### Changes
 - Les textes ont été réarranger pour être plus lisibles
 #### Additions
